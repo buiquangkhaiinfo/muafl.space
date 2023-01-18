@@ -35,7 +35,7 @@ let allMusic = [{
         src: "6"
     },
     {
-        name: "Vợ",
+        name: "Vê ka",
         artist: "Bùi Quang Khải",
         img: "7",
         src: "7"
